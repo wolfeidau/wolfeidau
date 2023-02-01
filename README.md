@@ -9,5 +9,5 @@ In my spare time I share a **lot** of smaller projects solving interesting probl
 # Links
 
 * [Blog](https://www.wolfe.id.au)
-* [Mastodon](https://awscommunity.social/@wolfeidau) or search for `@wolfeidau@awscommunity.social`
+* <a rel="me" href="https://awscommunity.social/@wolfeidau">Mastodon</a> or search for `@wolfeidau@awscommunity.social`
 * [Twitter](https://twitter.com/wolfeidau)
